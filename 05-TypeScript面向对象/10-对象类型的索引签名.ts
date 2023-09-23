@@ -4,7 +4,7 @@ interface Icollection {
   length: number
 }
 
-const namess: string[] = ['123', '123',' 23']
+const namess: string[] = ['123', '1','3']
 console.log(namess[0])
 
 function iteratorIcollection(collection: Icollection) {
